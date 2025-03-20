@@ -49,7 +49,7 @@ Construir um pipeline preditivo capaz de:
 
 ## 📈 Exemplo de Visualização
 
-![plot](assets/exemplo_previsao_ibov.png)
+![plot](Historico de Pred/2025-03-20. -0.84.jpeg)
 
 ---
 
