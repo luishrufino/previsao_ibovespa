@@ -15,8 +15,8 @@ Construir um pipeline preditivo capaz de:
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
-
+## ⚙️ Tecnologias Utilizadas 
+          
 - **Python 3.10+**
 - **Análise de Dados:** `pandas`, `numpy`, `matplotlib`, `datetime` 
 - **Machine Learning:** `scikit-learn`, `statsmodels`, `prophet`, `xgboost`
@@ -59,20 +59,18 @@ Construir um pipeline preditivo capaz de:
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```
 📂 previsao_ibovespa/
-├── Base de Dados/                      # Arquivo .csv com dados históricos da IBOVESPA
-│   └── ibov_historico.csv
-├── Histórico de Pred/                 # Plotagem gráfica das predições por dia
-│   └── grafico_predicoes.ipynb
-├── Subcodigos/                        # Códigos auxiliares (benchmark de modelos e scraping)
-│   ├── benchmarking_models.ipynb
-│   └── scraping_ibov_data.ipynb
-├── App. Random Forest Predct.ipynb    # Código com foco apenas no modelo Random Forest (melhor performance)
-├── Machine Code.ipynb                 # Pipeline completo com todo o código de pré-processamento, modelagem e previsão
-├── README.md                          # Documentação do projeto
+```
+├── 📂 Base_de_Dados/                   # Arquivo .csv com dados históricos da IBOVESPA
+│   └── 📄 Dados Históricos - Ibovespa.csv
+├── 📂 Historico_de_Pred/               # Plotagem gráfica das predições por dia
+│   └── 📄 grafico_predicoes.jpeg
+├── 📂 Subcodigos/                      # Códigos auxiliares (benchmark de modelos e scraping)
+│   ├── 📄 benchmarking_models.ipynb
+│   └── 📄 scraping_ibov_data.ipynb
+├── 📄 App_Random Forest Predct.ipynb   # Código com foco apenas no modelo Random Forest (melhor performance)
+├── 📄 Machine_Code.ipynb               # Pipeline completo com todo o código de pré-processamento, modelagem e previsão
+└── 📄 README.md                        # Documentação do projeto
 ```
 
 ---
@@ -90,7 +88,8 @@ Construir um pipeline preditivo capaz de:
 ## 👨‍💻 Autor
 
 **Luis Rufino — Analista de Dados**  
-📬 [LinkedIn](https://www.linkedin.com/in/luis-henrique-rufino-2341901b2/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />](https://www.linkedin.com/in/luis-henrique-rufino-2341901b2/)
+
 
 ---
 
