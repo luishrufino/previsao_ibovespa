@@ -49,7 +49,7 @@ Construir um pipeline preditivo capaz de:
 
 ## 📈 Exemplo de Visualização
 
-![plot](Historico de Pred/2025-03-20. -0.84.jpeg)
+![plot](Historico%20de%20Pred/2025-03-20.%20-0.84.jpeg)
 
 ---
 
