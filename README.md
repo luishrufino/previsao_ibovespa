@@ -60,6 +60,7 @@ Construir um pipeline preditivo capaz de:
 ---
 
 📂 previsao_ibovespa/
+```
 ├── 📂 Base_de_Dados/                   # Arquivo .csv com dados históricos da IBOVESPA
 │   └── 📄 Dados Históricos - Ibovespa.csv
 ├── 📂 Historico_de_Pred/               # Plotagem gráfica das predições por dia
@@ -70,6 +71,7 @@ Construir um pipeline preditivo capaz de:
 ├── 📄 App_Random Forest Predct.ipynb   # Código com foco apenas no modelo Random Forest (melhor performance)
 ├── 📄 Machine_Code.ipynb               # Pipeline completo com todo o código de pré-processamento, modelagem e previsão
 └── 📄 README.md                        # Documentação do projeto
+```
 
 ---
 
