@@ -1,14 +1,14 @@
 
 # 📈 Previsão do IBOVESPA com Séries Temporais e Random Forest
 
-Projeto de modelagem preditiva para prever o fechamento diário do índice **IBOVESPA**, utilizando técnicas de **Séries Temporais**, **Feature Engineering** e algoritmos de **Machine Learning (Random Forest, Arimna, Prophet, XGBoost)**.
+Projeto de modelagem preditiva para prever o fechamento diário do índice **IBOVESPA**, utilizando técnicas de **Séries Temporais**, **Feature Engineering** e algoritmos de **Machine Learning (Random Forest, ARIMA, Prophet, XGBoost)**.
 
 ---
 
 ## 💡 Objetivo
 
 Construir um pipeline preditivo capaz de:
-- Extrair dados diários de fechamento da IBOVESTA: https://br.investing.com/indices/bovespa-historical-data
+- Extrair dados diários de fechamento da IBOVESPA: https://br.investing.com/indices/bovespa-historical-data
 - Prever o valor de fechamento do IBOVESPA para os próximos 3 dias;
 - Calcular **intervalos de confiança** para as previsões;
 - Analisar desempenho comparativo com diferentes abordagens.
@@ -18,8 +18,8 @@ Construir um pipeline preditivo capaz de:
 ## ⚙️ Tecnologias Utilizadas
 
 - **Python 3.10+**
-- `pandas`, `numpy`, `matplotlib`,
-- `scikit-learn`, `statsmodels`, `prophet`, `XGBoost`, `Random Forest` 
+- `pandas`, `numpy`, `matplotlib`
+- `scikit-learn`, `statsmodels`, `prophet`, `xgboost`
 
 ---
 
@@ -39,11 +39,11 @@ Construir um pipeline preditivo capaz de:
 
 1. **Coleta dos dados históricos do IBOVESPA** via `Investing.com`;
 2. **Criação de variáveis derivadas** (lags, rolling, ema, etc.);
-3. **Treinamento de modelos diversos para Benchmarking**;
+3. **Treinamento de modelos diversos para benchmarking**;
 4. **Análise do modelo Random Forest Regressor**;
 5. **Validação e previsão para múltiplos dias futuros (3 dias)**;
 6. **Cálculo do intervalo de confiança com base na dispersão das árvores individuais**;
-7. **Visualização de previsão, com linha de tendência, faixa de incerteza, naive (baseline)**.
+7. **Visualização da previsão, com linha de tendência, faixa de incerteza e naive (baseline)**.
 
 ---
 
@@ -67,12 +67,9 @@ Construir um pipeline preditivo capaz de:
 ├── App. Random Forest Predct.ipynb    # Código com foco apenas no modelo Random Forest (melhor performance)
 ├── Machine Code.ipynb                 # Pipeline completo com todo o código de pré-processamento, modelagem e previsão
 ├── README.md                          # Documentação do projeto
-
 ```
 
 ---
-
-
 
 ## 🔜 Próximas Etapas
 
@@ -87,7 +84,7 @@ Construir um pipeline preditivo capaz de:
 ## 👨‍💻 Autor
 
 **Luis Rufino — Analista de Dados**  
-📬 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/luis-henrique-rufino-2341901b2/))
+📬 [LinkedIn](https://www.linkedin.com/in/luis-henrique-rufino-2341901b2/)
 
 ---
 
