@@ -17,7 +17,7 @@ Construir um pipeline preditivo capaz de:
 
 ## ⚙️ Tecnologias Utilizadas 
             
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" />
+          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" width="40" height="40"/>
           
           
           
