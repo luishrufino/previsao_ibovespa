@@ -16,6 +16,8 @@ Construir um pipeline preditivo capaz de:
 ---
 
 ## ⚙️ Tecnologias Utilizadas 
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
           
 - **Python 3.10+**
 - **Análise de Dados:** `pandas`, `numpy`, `matplotlib`, `datetime` 
