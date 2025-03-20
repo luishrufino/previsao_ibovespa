@@ -18,8 +18,9 @@ Construir um pipeline preditivo capaz de:
 ## ⚙️ Tecnologias Utilizadas
 
 - **Python 3.10+**
-- `pandas`, `numpy`, `matplotlib`
-- `scikit-learn`, `statsmodels`, `prophet`, `xgboost`
+- **Análise de Dados:** `pandas`, `numpy`, `matplotlib`, `datetime` 
+- **Machine Learning:** `scikit-learn`, `statsmodels`, `prophet`, `xgboost`
+- **Web Scraping:** `BeautifulSoup`, `request`
 
 ---
 
@@ -30,8 +31,13 @@ Construir um pipeline preditivo capaz de:
   - Simples (`rolling_mean`)
   - Exponencial (`EMA`)
 - Desvios padrão
-- Fourier (sazonalidade cíclica)
 - Tendência linear histórica
+- Calendário:
+  - `.day` 
+  - `.weekofyear`
+  - `.month`
+  - `.year`
+
 
 ---
 
@@ -49,7 +55,7 @@ Construir um pipeline preditivo capaz de:
 
 ## 📈 Exemplo de Visualização
 
-![plot](assets/exemplo_previsao_ibov.png)
+![plot](Historico%20de%20Pred/2025-03-20.%20-0.84.jpeg)
 
 ---
 
