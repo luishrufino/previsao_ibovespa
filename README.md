@@ -16,8 +16,6 @@ Construir um pipeline preditivo capaz de:
 ---
 
 ## ⚙️ Tecnologias Utilizadas 
-
-            <i class="devicon-pandas-plain-wordmark colored"></i>
           
 - **Python 3.10+**
 - **Análise de Dados:** `pandas`, `numpy`, `matplotlib`, `datetime` 
