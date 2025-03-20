@@ -15,8 +15,10 @@ Construir um pipeline preditivo capaz de:
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas 
 
+            <i class="devicon-pandas-plain-wordmark colored"></i>
+          
 - **Python 3.10+**
 - **Análise de Dados:** `pandas`, `numpy`, `matplotlib`, `datetime` 
 - **Machine Learning:** `scikit-learn`, `statsmodels`, `prophet`, `xgboost`
