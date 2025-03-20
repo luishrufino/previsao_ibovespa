@@ -16,10 +16,6 @@ Construir um pipeline preditivo capaz de:
 ---
 
 ## ⚙️ Tecnologias Utilizadas 
-            
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" width="40" height="40"/>
-          
-          
           
 - **Python 3.10+**
 - **Análise de Dados:** `pandas`, `numpy`, `matplotlib`, `datetime` 
@@ -94,7 +90,8 @@ Construir um pipeline preditivo capaz de:
 ## 👨‍💻 Autor
 
 **Luis Rufino — Analista de Dados**  
-📬 [LinkedIn](https://www.linkedin.com/in/luis-henrique-rufino-2341901b2/)
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/> [LinkedIn](https://www.linkedin.com/in/luis-henrique-rufino-2341901b2/)
 
 ---
 
