@@ -90,8 +90,7 @@ Construir um pipeline preditivo capaz de:
 ## 👨‍💻 Autor
 
 **Luis Rufino — Analista de Dados**  
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"  width="60" height="60" />](https://www.linkedin.com/in/luis-henrique-rufino-2341901b2/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"  width="100" height="100" />](https://www.linkedin.com/in/luis-henrique-rufino-2341901b2/)
 
 ---
 
