@@ -1,4 +1,3 @@
-
 # 📈 Previsão do IBOVESPA com Séries Temporais e Random Forest
 
 Projeto de modelagem preditiva para prever o fechamento diário do índice **IBOVESPA**, utilizando técnicas de **Séries Temporais**, **Feature Engineering** e algoritmos de **Machine Learning (Random Forest, ARIMA, Prophet, XGBoost)**.
@@ -53,6 +52,13 @@ Construir um pipeline preditivo capaz de:
 
 ---
 
+## 🏁 Benchmarking
+
+![Benchmarking](Benchmarking.png)
+
+---
+
+
 ## 📈 Exemplo de Visualização
 
 ![plot](Historico%20de%20Pred/2025-03-20.%20-0.84.jpeg)
@@ -85,9 +91,7 @@ Construir um pipeline preditivo capaz de:
 
 ---
 
-## 👨‍💻 Autor
-
-**Luis Rufino — Analista de Dados**  
+## 👨‍💻 Contato: **Luis Rufino — Analista de Dados**  
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />](https://www.linkedin.com/in/luis-henrique-rufino-2341901b2/)
 
 
