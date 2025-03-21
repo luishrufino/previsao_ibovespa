@@ -53,6 +53,11 @@ Construir um pipeline preditivo capaz de:
 ---
 
 ## 🏁 Benchmarking
+- Os testes utilizados para avaliar a eficiência dos modelos foram:
+    - **MAE (Mean Absolute Error)**: é a média das diferenças absolutas entre os valores reais e os valores previstos. Ele mede o erro médio das previsões, sem considerar a direção (positiva ou negativa).
+    - **RMSE (Root Mean Squared Error)**: é a raiz quadrada da média dos erros ao quadrado. Ele mede a magnitude média do erro, dando mais peso a erros grandes.
+    -  **MAPE (Mean Absolute Percentage Error)**: é a média das diferenças percentuais absolutas entre os valores reais e os valores previstos. Ele mede o erro percentual médio.
+    - **Accuracy (%)**: é uma métrica derivada do MAPE. Ela representa a porcentagem de precisão do modelo, calculada como:
 
 ![plot](Benchmarking.png)
 
