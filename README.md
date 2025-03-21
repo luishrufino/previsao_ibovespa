@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/ed789eb3-2e61-4bed-87b4-7572c1db791e)![image](https://github.com/user-attachments/assets/2153b25a-6375-4032-8ca3-e2d368d4684b)
 # 📈 Previsão do IBOVESPA com Séries Temporais e Random Forest
 
 Projeto de modelagem preditiva para prever o fechamento diário do índice **IBOVESPA**, utilizando técnicas de **Séries Temporais**, **Feature Engineering** e algoritmos de **Machine Learning (Random Forest, ARIMA, Prophet, XGBoost)**.
@@ -55,7 +54,7 @@ Construir um pipeline preditivo capaz de:
 
 ## 🏁 Benchmarking
 
-![plot](Benchmarking.png)
+![Benchmarking](Benchmarking.png)
 
 ---
 
