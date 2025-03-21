@@ -54,7 +54,7 @@ Construir um pipeline preditivo capaz de:
 
 ## 🏁 Benchmarking
 
-![Benchmarking](Benchmarking.png)
+![plot](Benchmarking.png)
 
 ---
 
