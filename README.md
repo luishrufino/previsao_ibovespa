@@ -76,6 +76,7 @@ Construir um pipeline preditivo capaz de:
 │   └── 📄 scraping_ibov_data.ipynb
 ├── 📄 App_Random Forest Predct.ipynb   # Código com foco apenas no modelo Random Forest (melhor performance)
 ├── 📄 Machine_Code.ipynb               # Pipeline completo com todo o código de pré-processamento, modelagem e previsão
+├── 📄 Benchmarking.png                 # Imagem de Benchmarking
 └── 📄 README.md                        # Documentação do projeto
 ```
 
