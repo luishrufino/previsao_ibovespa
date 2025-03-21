@@ -64,7 +64,7 @@ Construir um pipeline preditivo capaz de:
 ---
 
 
-## 📈 Exemplo de Visualização
+## 🗠 Exemplo de Visualização
 
 **Actual:**
 Representa os valores reais observados dos dados. Esta série mostra os dados históricos  que estão sendo analisados.
